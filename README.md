@@ -16,7 +16,7 @@
 
 ### What we build
 
-| | | |
+| Project | What it is | Try it |
 |---|---|---|
 | **[Muster](https://github.com/SolidGeeks/muster)** | Incident response playbooks, drawn, versioned and run live. | [Site](https://solidgeeks.github.io/muster/) |
 | **[Strata](https://github.com/SolidGeeks/strata)** | A self-hosted 3D map of your information systems. | [Site](https://solidgeeks.github.io/strata/) · [Roadmap to 1.0](https://github.com/SolidGeeks/strata/milestones) |
